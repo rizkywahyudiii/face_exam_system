@@ -1,0 +1,49 @@
+{
+  "history": [
+    {
+      "nama": "rizky",
+      "nim": "4233250024",
+      "kelas": "PSIK 23 C",
+      "tanggal": "2025-06-01 19:06:28",
+      "nilai": 90.0,
+      "jawaban_benar": 9,
+      "total_soal": 10
+    },
+    {
+      "nama": "wahyudi",
+      "nim": "4233250009",
+      "kelas": "psik",
+      "tanggal": "2025-06-01 23:37:09",
+      "nilai": 70.0,
+      "jawaban_benar": 7,
+      "total_soal": 10
+    },
+    {
+      "nama": "Rizky Wahyudi",
+      "nim": "4233250024",
+      "kelas": "PSIK 23 C",
+      "tanggal": "2025-06-09 16:55:33",
+      "nilai": 100.0,
+      "jawaban_benar": 10,
+      "total_soal": 10
+    },
+    {
+      "nama": "Rizky Wahyudi",
+      "nim": "4233250024",
+      "kelas": "PSIK 23 C",
+      "tanggal": "2025-06-11 21:45:52",
+      "nilai": 100.0,
+      "jawaban_benar": 10,
+      "total_soal": 10
+    },
+    {
+      "nama": "Khildan",
+      "nim": "4233250022",
+      "kelas": "PSIK 23 A",
+      "tanggal": "2025-06-11 22:02:11",
+      "nilai": 90.0,
+      "jawaban_benar": 9,
+      "total_soal": 10
+    }
+  ]
+}

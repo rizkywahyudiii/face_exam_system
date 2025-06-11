@@ -1,0 +1,59 @@
+{
+  "pilihan_ganda": [
+    {
+      "pertanyaan": "Apa kepanjangan dari CPU?",
+      "pilihan": [
+        "Central Processing Unit",
+        "Central Process Unit",
+        "Control Processing Unit",
+        "Control Process Unit"
+      ],
+      "kunci_jawaban": "Central Processing Unit",
+      "bobot": 2
+    },
+    {
+      "pertanyaan": "Apa fungsi utama dari RAM?",
+      "pilihan": [
+        "Menyimpan data sementara",
+        "Menyimpan data permanen",
+        "Memproses data",
+        "Menampilkan output"
+      ],
+      "kunci_jawaban": "Menyimpan data sementara",
+      "bobot": 2
+    },
+    {
+      "pertanyaan": "Apa warna langit saat cuaca cerah?",
+      "pilihan": [
+        "Merah",
+        "Biru",
+        "Hijau",
+        "Kuning"
+      ],
+      "kunci_jawaban": "Biru",
+      "bobot": 2
+    },
+    {
+      "pertanyaan": "Berapa jumlah kaki seekor ayam?",
+      "pilihan": [
+        "1",
+        "2",
+        "4",
+        "6"
+      ],
+      "kunci_jawaban": "2",
+      "bobot": 2
+    },
+    {
+      "pertanyaan": "Manakah yang merupakan nama hari?",
+      "pilihan": [
+        "Apel",
+        "Senin",
+        "Meja",
+        "Kursi"
+      ],
+      "kunci_jawaban": "Senin",
+      "bobot": 2
+    }
+  ]
+}
