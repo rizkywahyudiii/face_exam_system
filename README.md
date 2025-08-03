@@ -20,16 +20,19 @@
 
 ---
 
-## 📝 note:
-- program bisa multi-user
-- face recognition belum optimal karena blm pake deep learning
-- inpokan commit terbaru 😎
 
-
-## Direktori dan File Utama (tambahin kalo blm ada y)
+## 📂 Direktori dan File Utama (tambahin kalo blm ada y)
 <ul style="list-style: none; padding-left: 0;">
   <li>1️⃣ "faceRegist" => folder buat nyimpen wajah gudluking kmu</li>
   <li>2️⃣ "users.json" => file buat nyimpen data pengguna</li>
   <li>3️⃣ "soal.json" => file buat nampilin soal, disini kamu bisa edit2 soal dan jawabannya pake format json. pake gpt aj klo males tpi "PERHATIKAN FORMATNYA"</li>
   <li>4️⃣ "history.json" => file buat nampilin histori ujian untuk semua user, nilai kamu yg memuaskan akan terlihat disini.</li>
 <ul>
+
+---
+
+
+## 📝 note:
+- program bisa multi-user
+- face recognition belum optimal karena blm pake deep learning
+- inpokan commit terbaru 😎
